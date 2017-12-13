@@ -24,16 +24,16 @@
 
 
 - **Find Order.**
-![Gambar Find Order](Find Order.png)
+![Gambar Find Order](Find_Order.PNG)
     
 - **Finding Order**
-![Gambar Finding Order](Finding Order.png)
+![Gambar Finding Order](Finding_Order.PNG)
     
 - **Chat in Customer.**
-![Gambar Chat in Customer](Customer chat.png)
+![Gambar Chat in Customer](Customer_chat.PNG)
     
 - **Chat in Driver.**
-![Gambar Chat in Driver](Driver chat.png)
+![Gambar Chat in Driver](Driver_chat.PNG)
     
    
 #### Pembagian Tugas
